@@ -1,1 +1,1 @@
-Lecture/Seminar Materials for Week 1
+## Lecture/Seminar Materials for Week 1
