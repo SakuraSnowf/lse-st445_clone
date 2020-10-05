@@ -29,6 +29,7 @@ output: pdf_document
 \newpage
 
   * Sometimes GitHub classroom fails to create the repo for you properly and your homework repository may be empty and look like the following:
+
   ![](figs/hw_empty.png)
 
   Please add the homework files by yourself from the "lse-st445/lectures2020" repository by clicking on `uploading an existing file` (red square in the picture above). For hw1, you can find the hw files here:
@@ -36,6 +37,8 @@ output: pdf_document
 ![](figs/hw_files.png)
 
 Note while in Step 4 we show that you should have 3 files, the two files HW1.mod and HW.ipynb are enough for the homework.
+
+\newpage
 
 6. It looks as follows. Q1-3 Should have been finished during the class. Type in ‘Done’ in the cells below them (make them as Markdown cells). For Q4, paste your code into the cell below Q4. For Q5, it is optional. If you have made a personal page, just paste the link of your personal page there and save it as a markdown cell.
 
