@@ -28,7 +28,10 @@ output: pdf_document
 
 \newpage
 
-  * Sometimes GitHub classroom fails to create the repo for you properly. If your repository is empty, please add the homework files by yourself from the "lse-st445/lectures2020" repository. For hw1, they are:
+  * Sometimes GitHub classroom fails to create the repo for you properly and your homework repository may be empty and look like the following:
+  ![](figs/hw_empty.png)
+
+  Please add the homework files by yourself from the "lse-st445/lectures2020" repository by clicking on `uploading an existing file` (red square in the picture above). For hw1, you can find the hw files here:
 
 ![](figs/hw_files.png)
 
